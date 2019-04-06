@@ -41,7 +41,7 @@ gerhard richter		modern color
 PAUL RENNER			typeface, old school, baushaus like.
 
 Herb Lubalin 		ok, some nice pics.
-
+milton glasier		ok
 
 partially done
 
@@ -55,15 +55,22 @@ Herbert Matter	very cool, old , seen some ideas modernised.
 Lazar El Lissitzky similar baushaus.
 
 Roy Kuhlman old style, objects
+
+
 jan tschichold nice, partial
 
-modern
+max huber - incorporates allot of images into design.
 
+
+modern
 
 
 Quim Marin			modern,	awesome, still not gone through his whole portfolio.
 
 Bradbury Thompson	start of duotone (splitting out colors).
+
+
+
 
 Bruce Mau   		ok, famous.
 
@@ -75,7 +82,7 @@ DAN CEDERHOLM		retro modern.
 
 TODO
 https://www.famousgraphicdesigners.org/
-up to k
+up to otl
 
 todo
 Al Held						abstract perspective
