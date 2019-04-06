@@ -54,7 +54,7 @@ Herbert Matter	very cool, old , seen some ideas modernised.
 
 Lazar El Lissitzky similar baushaus.
 
-
+Roy Kuhlman old style, objects
 
 
 modern
@@ -83,9 +83,3 @@ joseph mueller brockmann
 josef albers
 http://www.designishistory.com/1940/joseph-mueller-brockmann/
 
-
-Bradbury Thompson
-Antonio Garcia
-Roy Kuhlman
-Bruno Munari
-Dick Bruna
