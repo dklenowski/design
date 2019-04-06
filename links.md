@@ -55,7 +55,7 @@ Herbert Matter	very cool, old , seen some ideas modernised.
 Lazar El Lissitzky similar baushaus.
 
 Roy Kuhlman old style, objects
-
+jan tschichold nice, partial
 
 modern
 
@@ -75,7 +75,7 @@ DAN CEDERHOLM		retro modern.
 
 TODO
 https://www.famousgraphicdesigners.org/
-
+up to k
 
 todo
 Al Held						abstract perspective
