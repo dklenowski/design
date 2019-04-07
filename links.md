@@ -49,6 +49,7 @@
 | ------------- |-------------|
 | Quim Marin	|  patterns+images |
 | Erik Spiekermann | bauhaus for 21 century |
+| wolff olins | unique |
 | Peter Saville | nice aesthetic. |
 | Alan Fletcher | old to modern. |
 | Wolfgang Weingart | old to modern. nice typo. |
