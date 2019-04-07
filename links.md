@@ -45,7 +45,8 @@
 
 ### modern
 
-
+|         |   |
+| ------------- |-------------|
 | Quim Marin	|  patterns+images |
 | Erik Spiekermann | bauhaus for 21 century |
 | Peter Saville | nice aesthetic. |
@@ -55,7 +56,6 @@
 | eddie lobanovskiy	|	modern |
 | magdiel lopez 	|	duotones, gradients |
 | dan cederholm	|	retro modern. |
-
 | Reza Abedini | interesting use of image overlayed with shapes. |
 
 
