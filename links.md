@@ -1,92 +1,67 @@
-artists
+## artists
 
-rene margaret				surreal
-matisse						color
-mondrian 					lines/color
-edward hopper				scene
-robert/sonia Delaunay		
-frank stella				abstract with color
-Ilya Bolotowsky				primitive shapes
+|         |   |
+| ------------- |-------------|
+| rene margaret | surreal
+| matisse	 | color |
+| mondrian 	| lines/color |
+| edward hopper| scene | |
+| robert/sonia Delaunay | color |
+| frank stella |abstract with color |
+| Ilya Bolotowsky |primitive shapes |
 
-	
+### Todo
 
-klee
-picasso
-miro
-kadinsky
-klimt
-pollock
-boccioni
+- klee
+- picasso
+- miro
+- kadinsky
+- klimt
+- pollock
+- boccioni
 
+## designers
 
+### Old style
 
+|         |   |
+| ------------- |-------------|
+| Herbert Matter | images+geometrics |
+| max huber | images|gemoetrics, brighter than matter |
+| Lester Beall		| old style, lines, pictures |
+| Alvin Lustig | natural shapes |
+| saul bass  		| 	lines, black |
+| Bauhaus			| 	master of lines |
+| Lazar El Lissitzky | bauhaus'ey |
+| Armin Hofmann | bauhaus'ey |
+| jan tschichold  | simple, geometric |
+| michael bierut	| 	old style -> nueve |
+| paul rand			| modern bass |
+| gerhard richter	| 	modern color |
+| PAUL RENNER		| 	typeface, old school, baushaus like. |
+| Herb Lubalin 		| ok, some nice pics. |
+| milton glasier	|	ok |
+| joseph mueller brockmann | ok |
 
-
-
-
-
-
-
-
-designers
-
-old
-
-Lester Beall		old style, lines, pictures
-michael bierut		old style -> nueve
-saul bass  			lines, black
-paul rand			modern bass
-Bauhaus				master of lines
-gerhard richter		modern color
-PAUL RENNER			typeface, old school, baushaus like.
-
-Herb Lubalin 		ok, some nice pics.
-milton glasier		ok
-
-partially done
-
-Erik Spiekermann		modern, good.
-
-Armin Hofmann	nice geometrics, black, borderline modern.
-Alvin Lustig
-
-Herbert Matter	very cool, old , seen some ideas modernised.
-
-Lazar El Lissitzky similar baushaus.
-
-Roy Kuhlman old style, objects
+### modern
 
 
-jan tschichold nice, partial
+| Quim Marin	|  patterns+images |
+| Erik Spiekermann | bauhaus for 21 century |
+| Peter Saville | nice aesthetic. |
+| Alan Fletcher | old to modern. |
+| Wolfgang Weingart | old to modern. nice typo. |
+| Bradbury Thompson	| start of duotone (splitting out colors). |
+| eddie lobanovskiy	|	modern |
+| magdiel lopez 	|	duotones, gradients |
+| dan cederholm	|	retro modern. |
 
-max huber - incorporates allot of images into design.
-
-
-modern
-
-
-Quim Marin			modern,	awesome, still not gone through his whole portfolio.
-
-Bradbury Thompson	start of duotone (splitting out colors).
-
-
+| Reza Abedini | interesting use of image overlayed with shapes. |
 
 
-Bruce Mau   		ok, famous.
+# Todo
 
-eddie lobanovskiy		modern
-magdiel lopez 		duotones, gradients
-DAN CEDERHOLM		retro modern.
-
-
-
-TODO
-https://www.famousgraphicdesigners.org/
-up to otl
-
-todo
-Al Held						abstract perspective
-joseph mueller brockmann	
-josef albers
-http://www.designishistory.com/1940/joseph-mueller-brockmann/
+- Al Held						abstract perspective	
+- josef albers
+- http://www.designishistory.com/1940/joseph-mueller-brockmann/
 
