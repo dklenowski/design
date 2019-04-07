@@ -62,6 +62,11 @@
 
 # Todo
 
+- Wolfgang Weingart
+- Neville Brody
+- Stanley Donwood
+- Steven Heller
+- WIM CROUWEL
 - Al Held						abstract perspective	
 - josef albers
 - http://www.designishistory.com/1940/joseph-mueller-brockmann/
